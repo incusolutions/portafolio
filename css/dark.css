@@ -67,7 +67,7 @@
 }
 [data-skin="dark"] .anor_fn_footer .footer_bottom,
 [data-skin="dark"] .anor_fn_footer .footer_top{
-	background-color: #0e0f13;
+	background-color: #381629;
 }
 [data-skin="dark"] .anor_fn_footer .footer_bottom{
 	border-top: 1px solid #2b2c31;
@@ -223,10 +223,10 @@
 	background-color: #0e0f13;
 }
 [data-skin="dark"] .anor_fn_prevnext > *{
-	background-color: #0e0f13;
+	background-color: #52203f;
 }
 [data-skin="dark"] .anor_fn_prevnext > *:hover{
-	background-color: #050505;
+	background-color: #37162a;
 }
 [data-skin="dark"] .anor_fn_collection_header{
 	background-color: #0e0f13;

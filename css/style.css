@@ -47,7 +47,7 @@ body{
 	color: var(--body-color);
 	position: relative;
 	word-break: break-word;
-	background-color: var(--body-background-color);
+	background: linear-gradient(#20102d, #5f1036);
 }
 section,
 div[class^="anor_fn_"]{
@@ -67,7 +67,7 @@ p{
 	letter-spacing: 0;
 }
 h1, h2, h3, h4, h5, h6{
-	color: var(--heading-color);
+	color: #bdbaba;
 	font-family: var(--heading-font-family);
 	line-height: 1.22;
 	letter-spacing: 0;
@@ -1892,7 +1892,7 @@ a.anor_fn_like.liked .fn__svg{
 /*	23) Footer
 /*------------------------------------------------------------------*/
 .anor_fn_footer .footer_top{
-	background-color: #eaf7eb;
+	background-color: #d0dee2;
 	width: 100%;
 	padding: 70px 0;
 }
